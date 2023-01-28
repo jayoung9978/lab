@@ -1,0 +1,8 @@
+git status
+vim {fileName}
+-이것저것 내용 막 쓰고 esc 누른 후 :wq 엔터치면 나가짐
+git add .
+git commit -m "vim명령어사용 파일"
+git push -u origin main
+
+-end-
