@@ -1,0 +1,7 @@
+git status
+git add {filename}
+git checkout {branch} -브랜치로 이동
+git commit -커밋에디터 내용입력하고 저장하기
+git commit -m -커밋내용
+git commit -am -모든 파일 커밋
+git push -작업내용 저장(깃허브저장)
